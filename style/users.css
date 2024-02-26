@@ -1,0 +1,11 @@
+
+.search_card{
+    position: relative;
+
+}
+
+.search_icon {
+    position: absolute;
+    top: 13px;
+    left: 10px;
+}
